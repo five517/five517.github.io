@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://five517.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 11:50:14 +0800</lastBuildDate>
+    
+	<atom:link href="http://five517.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>517的第一篇博客</title>
+      <link>http://five517.github.io/post/blog/</link>
+      <pubDate>Sat, 02 May 2020 11:50:14 +0800</pubDate>
+      
+      <guid>http://five517.github.io/post/blog/</guid>
+      <description>有道云笔记 markdown模板 [toc]
+抽空把【简明版】有道云笔记Markdown指南的图片版欢迎成了Markdown~
+什么是Markdown？Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的御用书写格式。
+有道云笔记内置Markdown编辑器和使用指南，非技术类笔记用户，千万不要被「标记」、「语言」吓到，Markdown的语法十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，不到半小时就能完全掌握。
+就是这十个不到的标记符号，却能让人优雅地沉浸式记录，专注内容而不是纠结排版，达到「心中无尘，码字入神」的境界。
+一、利用Markdown可以做什么？  代码高亮  代码高亮 @requires_authorization def somefunc(param1=&amp;#39;&amp;#39;, param2=0): &amp;#39;&amp;#39;&amp;#39;A docstring&amp;#39;&amp;#39;&amp;#39; if param1 &amp;gt; param2: # interesting print &amp;#39;Greater&amp;#39; return (param2-param1+1) or None Class SomeClass: pass &amp;gt;&amp;gt;&amp;gt; message = &amp;#39;&amp;#39;&amp;#39;interpreter ... prompt&amp;#39;&amp;#39;&amp;#39; 制作待办事项To-do List  To-do List   已完成项目1
+  已完成事项1
+  已完成事项2
+  待办事项1
+  待办事项2
+  高效绘制 流程图、序列图、甘特图、表格  流程图：  graph TD A[christmas] --&amp;gt;B(Go shopping) B --&amp;gt; C{LEt me think} C --&amp;gt;|One| D[Laptop] C --&amp;gt;|Two| E[iPhone] C --&amp;gt;|Three|F[Car] 序列图：  sequenceDiagram loop every day Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
+    </item>
+    
+  </channel>
+</rss>
